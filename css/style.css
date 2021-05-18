@@ -1,0 +1,65 @@
+body{
+    height: 100vh;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+/* header start  */
+.header{
+width: 100%;
+height: 50px;
+background-color: blue;
+text-align: center;
+}
+.header h1{
+    padding-top: 6px;
+}
+/* header end  */
+/* banner start  */
+.banner{
+overflow: hidden;
+width: 100%;
+}
+.nav{
+width: 33.33%;
+height: 800px;
+background-color: brown;
+text-align: center;
+float: left;
+}
+.nav h1{
+    padding-top: 310px;
+}
+.article{
+width: 33.33%;
+height: 800px;
+background-color: gold;
+text-align: center;
+float: left;
+}
+.article h1{
+    padding-top: 310px;
+}
+.ads{
+ width: 33.33%;
+ height: 800px;
+ background-color: deeppink;
+ text-align: center;
+ float: left;
+}
+.ads h1{
+    padding-top: 310px;
+}
+/* banner end  */
+/* foooter start  */
+.footer{
+    width: 100%;
+    height: 58px;
+    background-color: dimgray;
+    text-align: center;
+}
+.footer p{
+    padding: 20px;
+}
+/* foooter end  */
